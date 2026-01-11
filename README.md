@@ -1,6 +1,7 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-**[내 소개]** - 한줄소개
+**[내 소개]**
+- 한줄소개
 
 **[진행한 프로젝트]**
 1. 프로젝트명 : Yolo, 라즈베리파이 기반 우회전 보조 알고리즘 개발
