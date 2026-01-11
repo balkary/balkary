@@ -1,6 +1,5 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 [내 소개] - 한줄소개
 
 [진행한 프로젝트]
@@ -34,6 +33,8 @@
      - 대회 참가 기준에 정해진 CPU, GPU의 성능이 있었고 차량 하드웨어 또한 성능이 정해져있었기 때문에
        그 한정된 리소스 내에서 자율주행 알고리즘의 성능, 차량의 위치추종 능력, 장애물 회피 능력이 최대로
        올라오는것이 중요했다. 이에 우리 팀은 localization을 중요하다고 판단.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
 <!--
 **balkary/balkary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
